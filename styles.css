@@ -51,10 +51,11 @@ img:hover {
 
 /* Nav bar */
 header {
-    background-image: url('Hero-bg.png');
+    background-image: url('./hero-bg.png');
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
+        background-repeat: no-repeat;
+}
 
 
  .extra-gap{
